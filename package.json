@@ -1,0 +1,19 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "server.js",
+  "scripts": {
+    "test": "teste",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.6.7",
+    "ejs": "^0.8.8",
+    "express": "^4.8.8",
+    "express-load": "^1.1.15",
+    "method-override": "^2.1.3"
+  }
+}
